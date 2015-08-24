@@ -25,5 +25,8 @@
     "test",
     "tests",
     "tags"
-  ]
+  ],
+  "resolutions": {
+    "angular-card": "master"
+  }
 }
